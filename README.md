@@ -10,7 +10,9 @@ Dataset Attributes~:
 
 Independent Variables-
 `age - Numerical Variable - Customers' Age
+
 job - Categorical Variable - Customer's Job Type - ('admin.','blue-collar','entrepreneur','housemaid','management','retired','self-employed','services','student','technician','unemployed','unknown')
+
 marital - Categorical Variable - Customer's Marital Status - ('divorced','married','single')
 
 education - Categorical Variable - Customer's Education Level .('primary','secondary','tertiary','unknown')
