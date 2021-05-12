@@ -45,4 +45,4 @@ Dependent Variable-
 
 `deposit - Binary Variable - has the client subscribed a bank deposit? (binary: "yes","no")`
 
-
+https://nbviewer.jupyter.org/ paste github link to showcase the notebook if github fails to load the same.
