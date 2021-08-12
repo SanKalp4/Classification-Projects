@@ -5,9 +5,9 @@ bookings and payments. The details for the data fields are given in ```'Data Dic
 
 > The classification problem also needs the following points to be addressed: 
 
-1. Perform summary statistics and exploratory analysis to identify any collinearities and explain which issues collinearity causes.
+1.   Perform summary statistics and exploratory analysis to identify any collinearities and explain which issues collinearity causes.
 
-2. Inflated accuracy due to the charecteristic of the dataset needs to be treated accordingly.
+2.   Inflated accuracy due to the charecteristic of the dataset needs to be treated accordingly.
 
 3.  *  Calculate Click-Through Rates and Conversion Rates.
 
