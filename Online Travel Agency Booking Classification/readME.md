@@ -1,12 +1,14 @@
+
 The dataset is from an online travel agency that tracks their users' browsing history from search to
-bookings and payments. The details for the data fields are given in 'Data Dictionary.xlsx'.This dataset has 3 possible outcome variables: ```clicked```, ```booking_value``` and ```booked```. ```'booked'``` has been taken as final target column. The dataset is of size ```421 mb``` with severe imbalance.
+bookings and payments. The details for the data fields are given in ```'Data Dictionary.xlsx'```.This dataset has 3 possible outcome variables: ```clicked```, ```booking_value``` and ```booked```. ```'booked'``` has been taken as final target column. The dataset is of size ```421 mb``` with severe imbalance.
 
 
--- The classification problem also needs the following points to be addressed: 
+> The classification problem also needs the following points to be addressed: 
 
 1. Perform summary statistics and exploratory analysis to identify any collinearities and explain which issues collinearity causes.
 
 2. Inflated accuracy due to the charecteristic of the dataset needs to be treated accordingly.
 
-3.  -- a. Calculate Click-Through Rates and Conversion Rates.
-    -- b. How do property review score and property star rating affect click-through and conversion rates? Compare the effects of different levels of these variables.    
+3.  * a. Calculate Click-Through Rates and Conversion Rates.
+
+    * b. How do property review score and property star rating affect click-through and conversion rates? Compare the effects of different levels of these variables.    
