@@ -9,6 +9,6 @@ bookings and payments. The details for the data fields are given in ```'Data Dic
 
 2. Inflated accuracy due to the charecteristic of the dataset needs to be treated accordingly.
 
-3.  * a. Calculate Click-Through Rates and Conversion Rates.
+3.  *  Calculate Click-Through Rates and Conversion Rates.
 
-    * b. How do property review score and property star rating affect click-through and conversion rates? Compare the effects of different levels of these variables.    
+    *  How do property review score and property star rating affect click-through and conversion rates? Compare the effects of different levels of these variables.    
